@@ -15,7 +15,20 @@ h1{
 
 header img{
 		border-radius: 120px
-		
+
+}
+
+.content{max-width: 600px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+p.caption{
+	font-size: 16px
+	color:red;
 }
 /*<header>
 		<img src="img/profile.jpg">
